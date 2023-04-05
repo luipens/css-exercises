@@ -1,0 +1,16 @@
+.odds-only {
+  background-color: #f76c86;
+  font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+#second-element-only {
+  color: rgb(0, 0, 225);
+  font-size: 36px;
+}
+.third-element-only {
+  font-size: 24px;
+}
+#fourth-element-only {
+  background-color: lightgreen;
+  font-size: 24px;
+  font-weight: 700;
+}
